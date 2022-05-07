@@ -1,4 +1,4 @@
-Instrument,Facility,Hemisphere,Status,Operations Start,M1 Aperture [m],FOV [deg2],No. Fibers,Spectral Coverage,IFU,Resolution Modes
+﻿Instrument,Facility,Hemisphere,Status,Operations Start,M1 Aperture [m],FOV [deg2],No. Fibers,Spectral Coverage,IFU,Resolution Modes
 SDSS_1+2_Spectrograph,APO,N,Completed,1999,2.5,7.1,640,VIS,No,LOW
 SDSS_3+4_BOSS,APO,N,Completed,2009,2.5,7.1,1000,VIS,Yes,LOW
 SDSS_3+4_APOGEE,APO,N,Completed,2011,2.5,7.1,300,NIR(H),No,HIGH
@@ -17,3 +17,4 @@ FOBOS,Keck,N,Design,2028,10,0.09,1800,VIS,Yes,LOW
 MSE-baseline,CFHT,N,Design,2030,11.3,1.5,4332,VIS;NIR(YJH),Possibly,LOW;MED;HIGH
 SpecTel/WST,ESO,S,Design,Unknown,11.4,4.9,15000,VIS;NIR(YJ),Yes,MED;HIGH
 LSSTspec,VRO,S,Conception,Unknown,8.4,9.6,30000,VIS,Possibly,MED
+MOSAIC,ESO-ELT,S,Conception,Unknown,39.3,0.02,200,VIS;NIR(YJH),Yes,MED;HIGH
