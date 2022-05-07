@@ -1,0 +1,20 @@
+﻿Instrument,Telescope,Hemisphere,Collecting Area [m2],FOV [deg2],Etendue*
+SDSS_1+2_Spectrograph,SFT,N,3.68,7.1,26.1
+SDSS_3+4_BOSS,SFT,N,3.68,7.1,26.1
+SDSS_3+4_APOGEE,SFT,N,3.68,7.1,26.1
+SDSS_4_APOGEE,du Pont,S,NaN,3.1,NaN
+LAMOST,Guoshoujing,N,18.86,19.6,369.7
+HERMES,AAT,S,12,3.1,37.2
+SDSS_5_APOGEE+BOSS,SFT,N,3.68,7.1,26.1
+SDSS_5_APOGEE+BOSS,du Pont,S,NaN,3.1,NaN
+DESI,Mayall,N,9.5,8,76.0
+WEAVE,OOCC,N,13.8,3.1,42.8
+MOONS,VLT,S,50,0.14,7.0
+PFS,Subaru,N,50,1.3,65.0
+4MOST,Vista,S,12,4.4,52.8
+MegaMapper,Magellan-like,S,28,7.1,197.7
+FOBOS,Keck,N,76,0.09,6.6
+MSE-baseline,CFHT,N,80.8,1.5,121.2
+SpecTel/WST,Unknown,S,87.9,4.9,430.7
+LSSTspec,LSST,S,35.3,9.6,338.9
+MOSAIC,VLT,S,978,0.02,19.6
