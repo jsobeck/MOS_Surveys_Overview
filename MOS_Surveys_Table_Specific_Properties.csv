@@ -1,4 +1,4 @@
-﻿Instrument,Facility,Hemisphere,Status,Wavelength Coverage Regime(s) [nm],Spectral Resolution Setting(s)
+﻿Instrument,Facility,Hemisphere,Status,Wavelength_Coverage_Regime_nm,Spectral_Resolution_Settings
 SDSS_1+2_Spectrograph,APO,N,Completed,380-615; 580-920,1850-2200
 SDSS_3+4_BOSS,APO,N,Completed,360-1040,1560-2270;1850-2650
 SDSS_3+4_APOGEE,APO,N,Completed,1510-1700,"22,500"

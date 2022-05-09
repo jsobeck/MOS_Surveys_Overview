@@ -1,4 +1,4 @@
-﻿Instrument,Telescope,Hemisphere,Collecting Area [m2],FOV [deg2],Etendue*
+﻿Instrument,Telescope,Hemisphere,Collecting_Area_m2,FOV_deg2,Etendue*
 SDSS_1+2_Spectrograph,SFT,N,3.68,7.1,26.1
 SDSS_3+4_BOSS,SFT,N,3.68,7.1,26.1
 SDSS_3+4_APOGEE,SFT,N,3.68,7.1,26.1

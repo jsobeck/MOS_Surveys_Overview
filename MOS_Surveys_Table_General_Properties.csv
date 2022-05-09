@@ -1,4 +1,4 @@
-﻿Instrument,Facility,Hemisphere,Status,Operations Start,M1 Aperture [m],FOV [deg2],No. Fibers,Spectral Coverage,IFU,Resolution Modes
+﻿Instrument,Facility,Hemisphere,Status,Operations_Start,M1_Aperture_m,FOV_deg2,No_Fibers,Spectral_Coverage,IFU,Resolution_Modes
 SDSS_1+2_Spectrograph,APO,N,Completed,1999,2.5,7.1,640,VIS,No,LOW
 SDSS_3+4_BOSS,APO,N,Completed,2009,2.5,7.1,1000,VIS,Yes,LOW
 SDSS_3+4_APOGEE,APO,N,Completed,2011,2.5,7.1,300,NIR(H),No,HIGH
