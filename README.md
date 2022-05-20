@@ -3,7 +3,9 @@ Collection of properties associated with past, current, and future Multi-Object 
 generated for general comparison purposes.
 
 ## Available *.csv files
-The folder '''csv_files''' contains the following files:
+The folder 'csv_files' contains the following files:
+
+MOS_Surveys_Table_Combined.csv
 
 ## Available *.json files
 
