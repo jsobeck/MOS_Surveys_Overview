@@ -4,14 +4,10 @@ generated for general comparison purposes.
 
 ## Available *.csv files
 The folder 'csv_files' contains the following files:
-
-MOS_Surveys_Table_General_Properties.csv
-
-MOS_Surveys_Table_Specific_Properties.csv
-
-MOS_Surveys_Table_Etendue.csv
-
-- MOS_Surveys_Table_Combined.csv
+1. MOS_Surveys_Table_General_Properties.csv  
+2. MOS_Surveys_Table_Specific_Properties.csv  
+3. MOS_Surveys_Table_Etendue.csv  
+4. **MOS_Surveys_Table_Combined.csv**
 
 ## Available *.json files
 
